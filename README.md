@@ -1,4 +1,4 @@
-**LeadHub: A Comprehensive Lead Management System**
+# LeadHub: A Comprehensive Lead Management System
 
 
 ## Overview
